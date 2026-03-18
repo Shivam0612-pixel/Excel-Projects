@@ -8,6 +8,10 @@ This project is an interactive Sales Dashboard created in Microsoft Excel to ana
 
 The main objective of this project is to transform raw sales data into meaningful insights for better business decision-making through interactive reporting.
 
+
+<img width="2845" height="1470" alt="image" src="https://github.com/user-attachments/assets/e50ec2fb-1d27-4f88-90cb-74238c5b4e62" />
+
+
 ## Dashboard Link 
 [Dashboard link](https://github.com/Shivam0612-pixel/Excel-Projects/blob/main/Screenshot%202026-03-18%20125832.png)
 
