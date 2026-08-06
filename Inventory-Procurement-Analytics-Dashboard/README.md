@@ -33,4 +33,4 @@ An interactive Microsoft Excel dashboard developed to monitor Inventory and Proc
 
 ## Dashboard Preview
 
-![Dashboard](<img width="2840" height="1404" alt="image" src="https://github.com/user-attachments/assets/6ad9b922-6d2c-4622-8496-34407ff38415" />)
+![Dashboard](https://github.com/Shivam0612-pixel/Excel-Projects/blob/main/Inventory-Procurement-Analytics-Dashboard/image.png)
